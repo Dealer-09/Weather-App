@@ -32,7 +32,7 @@ Built using Vite JS for enhanced performance.
 
 #### 1. Clone the Repository
 
-git clone https://github.com/your-username/simple-weather-web-app.git  
+git clone https://github.com/Dealer-09/simple-weather-web-app.git  
 cd simple-weather-web-app
 
 #### 2. Install Dependencies
@@ -43,13 +43,12 @@ npm install
 
 1. Visit the OpenWeather API website and sign up for a free account.
 
-2.Generate your API key.
-Visit https://openweathermap.org/
-Make an account, and generate your API key
+2. Generate your API key.
+   Visit https://openweathermap.org/
+   Make an account, and generate your API key
 
 3. Add your API key to the project (in .env file):
-
-VITE_APP_ID=your-api-key-here
+   VITE_APP_ID=your-api-key-here
 
 #### 4. Run the App
 
