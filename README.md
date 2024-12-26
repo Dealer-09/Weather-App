@@ -2,9 +2,11 @@
 
 A lightweight and user-friendly weather application that allows users to check the weather in any location of their choice. Built with React JS, Vite JS, and styled using Vanilla CSS and HTML, this app fetches real-time weather data using the OpenWeather API  
 
+
 ## 🌤️ About the App
 
 The Simple Weather Web App is designed to provide accurate and real-time weather data. Just enter the name of the location where you want to know the weather, and the app fetches the latest updates using the reliable OpenWeather API  
+
 
 ## 🖥️ Features
 
@@ -23,6 +25,7 @@ Works seamlessly on desktops, tablets, and mobile devices.
 #### Fast Loading: 
 Built using Vite JS for enhanced performance.
 
+
 ## 🚀 Getting Started
 
 #### 1. Clone the Repository
@@ -38,14 +41,13 @@ npm install
 
 1. Visit the OpenWeather API website and sign up for a free account.
 
-
-#### 2. Generate your API key.
+2.Generate your API key.
 Visit https://openweathermap.org/
 Make an account, and generate your API key
 
-#### 3. Add your API key to the project (in .env file):
+3. Add your API key to the project (in .env file):
 
-VITE__API_KEY=your-api-key-here
+VITE_APP_ID=your-api-key-here
 
 #### 4. Run the App
 
