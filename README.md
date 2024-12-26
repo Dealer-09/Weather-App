@@ -2,6 +2,8 @@
 
 A lightweight and user-friendly weather application that allows users to check the weather in any location of their choice. Built with React JS, Vite JS, and styled using Vanilla CSS and HTML, this app fetches real-time weather data using the OpenWeather API  
 
+![Weather App Screenshot](https://github.com/Dealer-09/Weather-App/blob/main/public/Weather-App.png)
+
 
 ## 🌤️ About the App
 
